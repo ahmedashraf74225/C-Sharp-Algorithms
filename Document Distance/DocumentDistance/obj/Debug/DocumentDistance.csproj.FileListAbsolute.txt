@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+C:\Users\dell\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+C:\Users\dell\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+C:\Users\dell\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+C:\Users\dell\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+C:\Users\dell\Desktop\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+C:\Users\dell\Desktop\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
